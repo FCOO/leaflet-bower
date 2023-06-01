@@ -9,7 +9,7 @@ This is a copy of [Leaflet](https://leafletjs.com/) with the support for [Bower]
 The `dist` directory contains all the files from [Leaflet download](https://leafletjs.com/download.html)
 
 ### Version
-This version of Leaflet is **1.9.3**
+This version of Leaflet is **1.9.4**
 
 
 ### Installation

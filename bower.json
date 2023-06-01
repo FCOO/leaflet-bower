@@ -1,6 +1,6 @@
 {
     "name"		: "leaflet-bower",
-    "version"	: "1.9.3",
+    "version"	: "1.9.4",
     "homepage": "https://github.com/FCOO/leaflet-bower",
     "authors": "Niels Holt",
     "description": "This is a bower supported version of Leaflet 1.9. Leaflet is a JavaScript library for mobile-friendly interactive maps",
